@@ -1,0 +1,5 @@
+flask==2.3.2
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+jellyfish==0.11.2  # Para comparação de strings
+pandas==2.0.3     # Para manipulação de dados
